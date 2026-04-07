@@ -1,0 +1,51 @@
+1. What conclusion can you reach about the responses to this question?
+ 1. I responses show that most students prepare for class by ensuring their technology is working and logging in early. 
+ 2. 52% of students have an alternate setup to a second monitor and 48% have a second monitor.
+ 3. 43% of students have an external keyboard and mouse while 48% do not have one
+ 4. 71% of students will be taking notes with traditional pen and paper while 14% will take notes on their computer.
+ 5. The responses show there is an interest in certifications. 
+
+2. Is the default summary or visualization helpful? How could it be improved?
+ 1. I found the summary mostly helpful to read. I would suggest displaying or highlighting key words and how often they came up in students responses to make it easier to read. 
+ 2. I would have found it helpful for the chart to display the specifics of what the "other" options were.
+ 3. This summary was pretty straightforward. I would find it helpful to remove "other" as the question was either yes or no.
+ 4. I would suggest that the chart display the specifics for those students who chose other.
+ 5. I would suggest displaying or highlighting key words and how often they came up in students responses to make it easier to read. 
+
+3. For questions with an “Other” option, where can you find the actual text of those 
+responses? Do you notice anything that might be tricky about analyzing these?
+  The answers can be found under "more details." Analyzing these answers is tricky as the data is displayed in a very unorganized matter. It would be helpful for the responses to get sorted into specific words that were commonly used.       
+This would allow me to read and analyze the data more efficiently. 
+
+
+4. For questions calling for a written response, what challenges do you notice about 
+finding trends or patterns in the answers provided? 
+  There are several challenges that arise when finding trends with written responses. One of the biggest issues is how time consuming it can be to read and sort through every single answer. The data appears disorganized and this can make it hard to spot trends. 
+
+
+5. Now that you can see the responses, how might you recommend rephrasing this or 
+question or the response options in a future survey?
+  1. It would be helpful to use the most common responses and create a drop down. There should still be an "other" option for those who can not find what they are looking for in the drop down. 
+  2. I believe there should be an option to elaborate what other set up the student has as this question is pretty straight forward.
+  3. The responses should be "yes" or "no." Other would not apply to this question.
+  4. This question is phrased correctly, I wouldn't change anything at this time.
+  5. I wouldn't change the way this question is phrased. 
+
+
+Next respond to the below questions:
+6. Is there anything that surprised you about the survey responses?
+  I found it surprising that 71%  of students are using pen and paper as their primary note taking system. I assumed most were taking notes digitally considering how digital the world has become. 
+
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to 
+include in your morning routine, or any questions that you are also curious about?
+   I will be incorporating reviewing the material we will be covering that day. 
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help 
+in how you approach teaching this class?
+  As an instructor this survey allows me to gain a better insight on my students level or preparedness and technical knowledge. I would make it a goal to not speed through the material as most of my students are taking notes with pen and paper and can only write so fast. 
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to 
+make this survey anonymous? Why or why not? (If you can see both pros and cons, 
+you may include both.
+  I don't believe it was helpful to  make the survey anonymous. If a student is ever struggling in the future and the survey reveals they don't have access to a second monitor or extra equipment it would be beneficial to know this ahead of time. 
