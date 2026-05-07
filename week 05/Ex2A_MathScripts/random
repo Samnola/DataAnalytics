@@ -1,0 +1,4 @@
+name= "alondra martinez"
+
+
+print(name[7:5])

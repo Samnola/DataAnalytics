@@ -1,0 +1,4 @@
+-#dictionary
+contact_bb = { "name": "Bilbo Baggins", "birthday":"1999-03-25"
+print(contact_bb)
+print(contact_bb["name"]))
