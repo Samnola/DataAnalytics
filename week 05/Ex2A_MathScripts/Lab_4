@@ -1,0 +1,7 @@
+# Lab 4 F-strings 
+
+side_a = (input("Enter side A: "))
+print(f"Side A is {side_a}")
+
+side_a = int(input("Side A is "))
+print(f"Side A is {side_a}")
