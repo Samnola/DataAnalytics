@@ -1,0 +1,6 @@
+# Calculating distance 
+# How do you calculate the distance between coordinates (x1, y1) and (x2, y2)? Hint:
+# You'll need to look up how to calculate a square root in Python, which may involve a
+# function from the math module.
+
+# use ** to calculate square root (one * is mulitplication)

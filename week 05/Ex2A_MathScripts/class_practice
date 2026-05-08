@@ -1,0 +1,41 @@
+# Class practice
+# conditional logic example of a friendly greeting
+# I want a program that greets a user, then user replies
+# and the program replies back to the user 
+
+# define
+
+user_reply = input('Hello! (Enter "hi"): ') 
+
+user_reply2 = input('How are you? ')
+# double double quotes can display error messages
+# you can also use / for python to not read it as code 
+
+
+# calculate the unkonwn
+# the double equal sign is a comparison operator, checking to see if value matches 
+# checking for equality 
+
+#if user_reply[0:2].lower() == 'hi' : # we've specified to only look at first two characters of user reply
+
+if 'hi' in user_reply.lower(): # == requries exact match 
+    print("Nice to see you!")
+# elif user_reply == 'HI':
+#     print("Nice to see you!")
+else:
+    print("Please try again. ")
+
+# second part of greeting
+positive_resp = ["fine", "good", "great", "wonderful", "ok"]
+
+
+if user_reply2.lower().replace("!", '') in positive_resp:
+    print("That's good")
+else: #dont find match 
+    print("Lovely weather we're having")
+
+# display my results 
+
+
+#if user_reply != 'hi' : 
+    #print("Sorry, what was that?")
