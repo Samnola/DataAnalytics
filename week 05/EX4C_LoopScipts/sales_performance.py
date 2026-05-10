@@ -6,7 +6,7 @@ sales_data = [
 ('DeShawn Carter', 'East', 3100.75),
 ('LaTonya Rivers', 'South', 6420.00),
 ('Bob Nguyen', 'West', 4980.25),
-]\
+]
 
 total_sales = 0
 
