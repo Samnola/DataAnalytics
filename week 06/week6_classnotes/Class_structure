@@ -1,0 +1,28 @@
+class ClassName: # Name it ( like a form you fill in )
+
+        # Fill it     
+    def __init__(self, parameter1, parameter2): #inputs coming in (when i make a new thing what info do i give it)
+                # parameter = the placeholder in the function (empty spot waiting for a real value later)
+        self.attribute1 = parameter1 #save this on object (stored permanently in object)
+        self.attribute2 = parameter2
+       # make it do something 
+    def method_name(self, input_value):
+        # do something with self.attribute1 and input_value
+        return result
+
+
+class ClassName:
+
+    def __init__(self, ____):
+        self.____ = ____ #left side  of = is what you are creating 
+        self.____ = ____ #right side of = is what you recieved as input
+#method name= name you give to function inside a class
+    def method_name(self, ____): #input for function
+        return ____ #what the funciton gives back 
+
+# self.x is stored data ( stays in object) meaning object remembers it for later
+# def do () uses the data then its gone. 
+# argument = what you put in box
+# parameter = empty box
+# you activate function by using parenthese to run it 
+
